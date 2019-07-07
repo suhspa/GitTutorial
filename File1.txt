@@ -1,3 +1,0 @@
-First line of alef
-Hello AlefTitle:
-Fixed important bug!
